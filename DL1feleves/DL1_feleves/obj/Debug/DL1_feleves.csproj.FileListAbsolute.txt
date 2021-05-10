@@ -1,0 +1,22 @@
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\DL1_feleves.exe.config
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\DL1_feleves.exe
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\DL1_feleves.pdb
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\Cntk.Core.Managed-2.7.dll
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\obj\Debug\DL1_feleves.csproj.CoreCompileInputs.cache
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\obj\Debug\DL1_feleves.csproj.CopyComplete
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\obj\Debug\DL1_feleves.exe
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\obj\Debug\DL1_feleves.pdb
+C:\Users\Andras\Desktop\OENIK\Deep Learning 1 Féléves\DL1_feleves\DL1_feleves\obj\Debug\DL1_feleves.csprojAssemblyReference.cache
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\DL1_feleves.exe.config
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\DL1_feleves.exe
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\DL1_feleves.pdb
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\Cntk.Core.Managed-2.7.dll
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\obj\Debug\DL1_feleves.csprojAssemblyReference.cache
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\obj\Debug\DL1_feleves.csproj.CoreCompileInputs.cache
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\obj\Debug\DL1_feleves.csproj.CopyComplete
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\obj\Debug\DL1_feleves.exe
+C:\Users\Andras\Desktop\DL1feleves\DL1_feleves\obj\Debug\DL1_feleves.pdb
